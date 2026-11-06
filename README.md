@@ -1,5 +1,7 @@
 # FourierFlower — Fourier Bloom 3D
 
+![pic](pic.png)
+
 A single-file interactive 3D Fourier-epicycle flower garden inspired by a nautilus spiral.
 
 **[Open the live garden](https://anttiluode.github.io/FourierFlower/)**
